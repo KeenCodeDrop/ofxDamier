@@ -25,4 +25,6 @@ damier.draw();
 
 
 ```
-![](ofxDamier_Draw.gif)
+<p align="center">
+  <img src="ofxDamier_Draw.gif" />
+</p>
