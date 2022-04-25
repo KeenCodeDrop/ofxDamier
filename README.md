@@ -38,7 +38,7 @@ damier.creation(int box_nbr, int box_hight, int box_tick, ofColor color1, ofColo
 damier.draw();
 ```
 <p align="center">
-  <img src="ofxDamier_Draw.gif" />
+  <img src="gif/ofxDamier_Draw.gif" />
 </p>
 
 ### Textured Damier
@@ -58,7 +58,17 @@ damier.set_texture("path/to/image1.png", "path/to/image2.png");
 // Simply draw it with text
 damier.draw_texture();
 ```
-
 <p align="center">
-  <img src="ofxDamier_DrawTexture.gif" />
+  <img src="gif/ofxDamier_DrawTexture.gif" />
+</p>
+
+### Freeze Tile FX
+```C++
+// In the draw section of ofApp.cpp
+// Use the freezeFX method before drawing
+damier.freezfx();
+damier.draw();
+```
+<p align="center">
+  <img src="gif/ofxDamier_FreezeFX.gif" />
 </p>
