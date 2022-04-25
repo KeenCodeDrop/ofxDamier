@@ -1,11 +1,11 @@
 # ofxDamier
 
-ofxDamier is a small addon for openframeworks who primarly use the ofBoxPrimitive to create a *damier* floor. You can customize :
--The number of tile per side
--Lenght of the tiles
--Tickness of the tiles
--The color of the tiles
--The texture of the tiles
+ofxDamier is a small addon for openframeworks who primarly use the ofBoxPrimitive to create a *damier* floor. You can customize :  
+* The number of tile per side  
+* Lenght of the tiles  
+* Tickness of the tiles  
+* The color of the tiles  
+* The texture of the tiles  
 
 ## How to use
 ```C++
